@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Kyree Richardson)
+ * (Challenge 2)
+ * (Manages objects out of bounds)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
