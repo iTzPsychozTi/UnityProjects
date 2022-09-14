@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Kyree Richardson
+ * Prototype 3
+ * (Repeats the background of the game)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Kyree Richardson
+ * Prototype 3
+ * (Manages all of the UI within the game)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
