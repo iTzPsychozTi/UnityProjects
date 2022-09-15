@@ -11,7 +11,6 @@ using UnityEngine.SceneManagement;
 public class UIManager : MonoBehaviour
 {
     public Text scoreText;
-    public Text loseText;
     public int score = 0;
 
     public PlayerControllerX playerControllerScript;
