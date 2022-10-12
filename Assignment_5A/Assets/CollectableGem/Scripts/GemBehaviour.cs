@@ -8,9 +8,10 @@ public class GemBehaviour : MonoBehaviour
 	public GameObject gemVisuals;
 	public GameObject collectedParticleSystem;
 	public CircleCollider2D gemCollider2D;
+	public UI_Manager uiManager;
 
 	private float durationOfCollectedParticleSystem;
-
+	private int _score;
 
 	void Start()
 	{
@@ -30,7 +31,7 @@ public class GemBehaviour : MonoBehaviour
 		gemVisuals.SetActive (false);
 		collectedParticleSystem.SetActive (true);
 		Invoke ("DeactivateGemGameObject", durationOfCollectedParticleSystem);
-
+		uiManager.AddScore();
 	}
 
 	void DeactivateGemGameObject()
