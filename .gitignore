@@ -91,3 +91,21 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.icloud
+*.icloud
+Assignment_5B/.DS_Store
+Assignment_5B/Assets/.DS_Store
+Assignment_5B/Assets/Standard Assets/.DS_Store
+Assignment_5B/Assets/Standard Assets/Environment/.DS_Store
+Assignment_5B/Assets/Standard Assets/Environment/SpeedTree/.DS_Store
+Assignment_5B/Assets/Standard Assets/Environment/SpeedTree/Palm/.DS_Store
+Assignment_5B/Assets/Standard Assets/Environment/SpeedTree/Palm/.Palm_Desktop_Atlas_Normal.tga.icloud
+Assignment_5B/Assets/Standard Assets/Environment/SpeedTree/Palm/.PalmBark.tga.icloud
+Assignment_5B/Assets/Standard Assets/Environment/SpeedTree/Palm/.PalmBark_Normal.tga.icloud
+Assignment_5B/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/.DS_Store
+Assignment_5B/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/.MudRockyAlbedoSpecular.bmp.icloud
+Assignment_5B/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/.MudRockyNormals.bmp.icloud
+Assignment_5B/Assets/Standard Assets/Vehicles/Aircraft/Textures/.AircraftFuselageOcclusion.png.icloud
+Assignment_5B/Assets/Standard Assets/Vehicles/Aircraft/Textures/.AircraftWingsJetNormals.png.icloud
+Assignment_5B/Assets/Standard Assets/Vehicles/Aircraft/Textures/.AircraftWingsJetOcclusion.png.icloud
+Assignment_5B/Assets/Standard Assets/Vehicles/Aircraft/Textures/.AircraftWingsPropellerOcclusion.png.icloud
